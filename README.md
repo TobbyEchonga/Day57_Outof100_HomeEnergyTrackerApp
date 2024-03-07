@@ -10,5 +10,5 @@ This repository contains a Python project for tracking home energy usage.
    # pip install Flask pandas
 
 2. Run the application:
-   python app.py and index.html in the home_energy_tracker folder
+   python file `app.py` and html file `index.html` in the home_energy_tracker folder
 
